@@ -1,5 +1,4 @@
 # Crawler_of_zhihu
-Crawler_of_zhihu
 唯一需要修改的地方是browser = webdriver.Chrome("/Users/apple/Downloads/chromedriver_mac_mac") 这里的地址改成你自己chromedriver的地址
 
 
